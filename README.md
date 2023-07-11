@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Ahmed Attallah, a Backend Engineer with experience in Node.js, Python, MongoDB, MYSQL, Redis, React.js, and Apache Kafka. I enjoy building scalable and efficient systems that solve real-world problems.
+I'm Ahmed Attallah, a Backend Engineer with experience in Node.js, Python, MongoDB, MySQL, Redis, React.js, Apache Kafka, and Docker. I enjoy building scalable and efficient systems that solve real-world problems.
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="backend engineer gif" width="400" height="auto">
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="backend engineer gif" width="200" height="auto">
 
 ### Technologies I work with:
 
@@ -13,6 +13,7 @@ I'm Ahmed Attallah, a Backend Engineer with experience in Node.js, Python, Mongo
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### How to reach me:
 
